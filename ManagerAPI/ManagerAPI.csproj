@@ -36,6 +36,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\ManagerInfra\ManagerInfra.csproj" />
+      <ProjectReference Include="..\ManagerServices\ManagerServices.csproj" />
     </ItemGroup>
 
 </Project>
